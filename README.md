@@ -1,4 +1,4 @@
-# SF-salaries-EDA
+# SF-salaries-EDA with python 
 One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the names, job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014.</br>
 EDA help us to dive into data and gain useful insights </br>
 there are some questions that answered in the project </br>
